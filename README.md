@@ -1,4 +1,4 @@
-# Product Scraper
+# Twitter Liker
 This bot will like all posts on twitter with specified hashtag. In this pet project I used selenium browser to connect to twitter account and like all posts.
 
 [![Screenshot-1.png](https://i.postimg.cc/mZX6mTfy/Screenshot-1.png)](https://postimg.cc/5jz30dtX)
